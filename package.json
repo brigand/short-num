@@ -1,0 +1,24 @@
+{
+  "name": "short-num",
+  "version": "0.1.0",
+  "description": "converts e.g. 12345 -> 12.35k",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigand/short-num.git"
+  },
+  "keywords": [
+    "number",
+    "formatting",
+    "short"
+  ],
+  "author": "Frankie Bagnardi <f.bagnardi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brigand/short-num/issues"
+  },
+  "homepage": "https://github.com/brigand/short-num#readme"
+}
