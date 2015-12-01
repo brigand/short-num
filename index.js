@@ -3,6 +3,7 @@
 // source: http://stackoverflow.com/a/2686098/1074592
 function abbrNum(number, decPlaces, abbrev) {
     // 2 decimal places => 100, 3 => 1000, etc
+    decPlaces = decPlaces != null ? decPlaces : 2;
     decPlaces = Math.pow(10, decPlaces);
 
     // Enumerate number abbreviations
