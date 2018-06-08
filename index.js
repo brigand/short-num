@@ -35,7 +35,7 @@ function abbrNum(number, decPlaces, abbrev) {
         }
     }
 
-    return number;
+    return String(number);
 }
 
 module.exports = abbrNum;
