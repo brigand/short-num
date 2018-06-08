@@ -1,6 +1,6 @@
 {
   "name": "short-num",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "converts e.g. 12345 -> 12.35k",
   "main": "index.js",
   "scripts": {
